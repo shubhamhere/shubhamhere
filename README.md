@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamhere" alt="shubhamhere" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
 
-- 🔭 I’m currently working on **Whatsapp clone**
+- 🔭 I’m currently working on **Ecommerce Website**
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
